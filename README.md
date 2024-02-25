@@ -1,2 +1,3 @@
-# ach45-todas
-Orientações gerais sobre as disciplinas de Estatística do Curso de Marketing da EACHUSP
+# ach4513-inferencia
+
+Conteúdo da Disciplina ACH4513 Inferência Estatística do Curso de Marketing da EACHUSP
